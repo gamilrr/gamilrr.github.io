@@ -1051,7 +1051,7 @@ pre .javascript .function {
   height: 2px;
   left: 0;
   position: fixed;
-  top: 0;
+  bottom: 0;
   width: 0;
   z-index: 9999;
 }
@@ -1825,7 +1825,7 @@ article:last-child .post-eof {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #2636bb;
+  background: #d517ed;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
